@@ -1,5 +1,6 @@
 package com.main;
 
-public class Shark {
+public class Shark extends Fish
+{
 
 }

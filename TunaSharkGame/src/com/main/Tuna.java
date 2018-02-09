@@ -1,5 +1,5 @@
 package com.main;
 
-public class Tuna {
+public class Tuna extends Fish{
 
 }
